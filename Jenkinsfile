@@ -1,5 +1,5 @@
 @Library('shared-library@master')_
 Pipeline{
 	reponame = "maven-war"
-	DeploymentName = "*/war"
+	DeploymentName = "\wwp-1.0.0"
 }
